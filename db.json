@@ -1,587 +1,587 @@
 { "Stations" : 
   [{
-      "StationName":"Acapulco",
-      "StationCode":"ACA"
+      "Name":"Acapulco",
+      "Code":"ACA"
    },
   {
-      "StationName":"Aguascalientese",
-      "StationCode":"AGU"
+      "Name":"Aguascalientese",
+      "Code":"AGU"
    },
   {
-      "StationName":"Albany",
-      "StationCode":"ALB"
+      "Name":"Albany",
+      "Code":"ALB"
    },
   {
-      "StationName":"Atlanta",
-      "StationCode":"ATL"
+      "Name":"Atlanta",
+      "Code":"ATL"
    },
   {
-      "StationName":"Austin",
-      "StationCode":"AUS"
+      "Name":"Austin",
+      "Code":"AUS"
    },
   {
-      "StationName":"Austin/San Antonio",
-      "StationCode":"QTX"
+      "Name":"Austin/San Antonio",
+      "Code":"QTX"
    },
   {
-      "StationName":"Baltimore",
-      "StationCode":"BWI"
+      "Name":"Baltimore",
+      "Code":"BWI"
    },
   {
-      "StationName":"Birmingham ",
-      "StationCode":"BHM"
+      "Name":"Birmingham ",
+      "Code":"BHM"
    },
   {
-      "StationName":"Bismarck ",
-      "StationCode":"BIS"
+      "Name":"Bismarck ",
+      "Code":"BIS"
    },
   {
-      "StationName":"Bogotá",
-      "StationCode":"BOG"
+      "Name":"Bogotá",
+      "Code":"BOG"
    },
   {
-      "StationName":"Boise ",
-      "StationCode":"BOI"
+      "Name":"Boise ",
+      "Code":"BOI"
    },
   {
-      "StationName":"Bozeman ",
-      "StationCode":"BZN"
+      "Name":"Bozeman ",
+      "Code":"BZN"
    },
   {
-      "StationName":"Bradley",
-      "StationCode":"BDL"
+      "Name":"Bradley",
+      "Code":"BDL"
    },
   {
-      "StationName":"Branson ",
-      "StationCode":"BKG"
+      "Name":"Branson ",
+      "Code":"BKG"
    },
   {
-      "StationName":"Campeche",
-      "StationCode":"CPE"
+      "Name":"Campeche",
+      "Code":"CPE"
    },
   {
-      "StationName":"Cancun",
-      "StationCode":"CUN"
+      "Name":"Cancun",
+      "Code":"CUN"
    },
   {
-      "StationName":"Cancun/Cozumel",
-      "StationCode":"QCN"
+      "Name":"Cancun/Cozumel",
+      "Code":"QCN"
    },
   {
-      "StationName":"Cedar rapids",
-      "StationCode":"CID"
+      "Name":"Cedar rapids",
+      "Code":"CID"
    },
   {
-      "StationName":"Charleston ",
-      "StationCode":"CHS"
+      "Name":"Charleston ",
+      "Code":"CHS"
    },
   {
-      "StationName":"Charlotte",
-      "StationCode":"CLT"
+      "Name":"Charlotte",
+      "Code":"CLT"
    },
   {
-      "StationName":"Chetumal",
-      "StationCode":"CTM"
+      "Name":"Chetumal",
+      "Code":"CTM"
    },
   {
-      "StationName":"Chicago (Midway)",
-      "StationCode":"MDW"
+      "Name":"Chicago (Midway)",
+      "Code":"MDW"
    },
   {
-      "StationName":"Chicago (O Hare)",
-      "StationCode":"ORD"
+      "Name":"Chicago (O Hare)",
+      "Code":"ORD"
    },
   {
-      "StationName":"Chicago Airports",
-      "StationCode":"CHI"
+      "Name":"Chicago Airports",
+      "Code":"CHI"
    },
   {
-      "StationName":"Chihuahua",
-      "StationCode":"CUU"
+      "Name":"Chihuahua",
+      "Code":"CUU"
    },
   {
-      "StationName":"Cincinnati/Northern Kentucky Airport",
-      "StationCode":"CVG"
+      "Name":"Cincinnati/Northern Kentucky Airport",
+      "Code":"CVG"
    },
   {
-      "StationName":"Ciudad Juarez",
-      "StationCode":"CJS"
+      "Name":"Ciudad Juarez",
+      "Code":"CJS"
    },
   {
-      "StationName":"Ciudad Obregon",
-      "StationCode":"CEN"
+      "Name":"Ciudad Obregon",
+      "Code":"CEN"
    },
   {
-      "StationName":"Cleveland ",
-      "StationCode":"CLE"
+      "Name":"Cleveland ",
+      "Code":"CLE"
    },
   {
-      "StationName":"Colima",
-      "StationCode":"CLQ"
+      "Name":"Colima",
+      "Code":"CLQ"
    },
   {
-      "StationName":"Colorado Springs",
-      "StationCode":"COS"
+      "Name":"Colorado Springs",
+      "Code":"COS"
    },
   {
-      "StationName":"Columbus",
-      "StationCode":"CMH"
+      "Name":"Columbus",
+      "Code":"CMH"
    },
   {
-      "StationName":"Cozumel",
-      "StationCode":"CZM"
+      "Name":"Cozumel",
+      "Code":"CZM"
    },
   {
-      "StationName":"Culiacan",
-      "StationCode":"CUL"
+      "Name":"Culiacan",
+      "Code":"CUL"
    },
   {
-      "StationName":"Dallas – Fort Worth",
-      "StationCode":"DFW"
+      "Name":"Dallas – Fort Worth",
+      "Code":"DFW"
    },
   {
-      "StationName":"Denver",
-      "StationCode":"DEN"
+      "Name":"Denver",
+      "Code":"DEN"
    },
   {
-      "StationName":"Des Moines ",
-      "StationCode":"DSM"
+      "Name":"Des Moines ",
+      "Code":"DSM"
    },
   {
-      "StationName":"Detroit",
-      "StationCode":"DTW"
+      "Name":"Detroit",
+      "Code":"DTW"
    },
   {
-      "StationName":"Dulles, Washington",
-      "StationCode":"IAD"
+      "Name":"Dulles, Washington",
+      "Code":"IAD"
    },
   {
-      "StationName":"Durango",
-      "StationCode":"DGO"
+      "Name":"Durango",
+      "Code":"DGO"
    },
   {
-      "StationName":"El Paso ",
-      "StationCode":"ELP"
+      "Name":"El Paso ",
+      "Code":"ELP"
    },
   {
-      "StationName":"Fargo ",
-      "StationCode":"FAR"
+      "Name":"Fargo ",
+      "Code":"FAR"
    },
   {
-      "StationName":"Fort Myers ",
-      "StationCode":"RSW"
+      "Name":"Fort Myers ",
+      "Code":"RSW"
    },
   {
-      "StationName":"Fresno",
-      "StationCode":"FAT"
+      "Name":"Fresno",
+      "Code":"FAT"
    },
   {
-      "StationName":"Grand Rapids ",
-      "StationCode":"GRR"
+      "Name":"Grand Rapids ",
+      "Code":"GRR"
    },
   {
-      "StationName":"Green bay",
-      "StationCode":"GRB"
+      "Name":"Green bay",
+      "Code":"GRB"
    },
   {
-      "StationName":"Greenville ",
-      "StationCode":"GSP"
+      "Name":"Greenville ",
+      "Code":"GSP"
    },
   {
-      "StationName":"Guadalajara",
-      "StationCode":"GDL"
+      "Name":"Guadalajara",
+      "Code":"GDL"
    },
   {
-      "StationName":"Guatemala",
-      "StationCode":"GUA"
+      "Name":"Guatemala",
+      "Code":"GUA"
    },
   {
-      "StationName":"Hermosillo",
-      "StationCode":"HMO"
+      "Name":"Hermosillo",
+      "Code":"HMO"
    },
   {
-      "StationName":"Houston",
-      "StationCode":"IAH"
+      "Name":"Houston",
+      "Code":"IAH"
    },
   {
-      "StationName":"Huatulco",
-      "StationCode":"HUX"
+      "Name":"Huatulco",
+      "Code":"HUX"
    },
   {
-      "StationName":"Huntsville ",
-      "StationCode":"HSV"
+      "Name":"Huntsville ",
+      "Code":"HSV"
    },
   {
-      "StationName":"Illinois",
-      "StationCode":"BMI"
+      "Name":"Illinois",
+      "Code":"BMI"
    },
   {
-      "StationName":"Indianapolis International Airport",
-      "StationCode":"IND"
+      "Name":"Indianapolis International Airport",
+      "Code":"IND"
    },
   {
-      "StationName":"Ixtapa / Zihuatanejo",
-      "StationCode":"ZIH"
+      "Name":"Ixtapa / Zihuatanejo",
+      "Code":"ZIH"
    },
   {
-      "StationName":"Jackson ",
-      "StationCode":"JAC"
+      "Name":"Jackson ",
+      "Code":"JAC"
    },
   {
-      "StationName":"Jacksonville ",
-      "StationCode":"JAX"
+      "Name":"Jacksonville ",
+      "Code":"JAX"
    },
   {
-      "StationName":"Kansas City",
-      "StationCode":"MCI"
+      "Name":"Kansas City",
+      "Code":"MCI"
    },
   {
-      "StationName":"Knoxville",
-      "StationCode":"TYS"
+      "Name":"Knoxville",
+      "Code":"TYS"
    },
   {
-      "StationName":"La Guardia ",
-      "StationCode":"LGA"
+      "Name":"La Guardia ",
+      "Code":"LGA"
    },
   {
-      "StationName":"La Paz",
-      "StationCode":"LAP"
+      "Name":"La Paz",
+      "Code":"LAP"
    },
   {
-      "StationName":"Lafayette ",
-      "StationCode":"LFT"
+      "Name":"Lafayette ",
+      "Code":"LFT"
    },
   {
-      "StationName":"Las Vegas",
-      "StationCode":"LAS"
+      "Name":"Las Vegas",
+      "Code":"LAS"
    },
   {
-      "StationName":"Leon",
-      "StationCode":"BJX"
+      "Name":"Leon",
+      "Code":"BJX"
    },
   {
-      "StationName":"Little Rock ",
-      "StationCode":"LIT"
+      "Name":"Little Rock ",
+      "Code":"LIT"
    },
   {
-      "StationName":"Logan",
-      "StationCode":"BOS"
+      "Name":"Logan",
+      "Code":"BOS"
    },
   {
-      "StationName":"Long Island ",
-      "StationCode":"ISP"
+      "Name":"Long Island ",
+      "Code":"ISP"
    },
   {
-      "StationName":"Loreto",
-      "StationCode":"LTO"
+      "Name":"Loreto",
+      "Code":"LTO"
    },
   {
-      "StationName":"Los Angeles",
-      "StationCode":"LAX"
+      "Name":"Los Angeles",
+      "Code":"LAX"
    },
   {
-      "StationName":"Los Angeles Airports",
-      "StationCode":"QLA"
+      "Name":"Los Angeles Airports",
+      "Code":"QLA"
    },
   {
-      "StationName":"Los Cabos",
-      "StationCode":"SJD"
+      "Name":"Los Cabos",
+      "Code":"SJD"
    },
   {
-      "StationName":"Los Mochis",
-      "StationCode":"LMM"
+      "Name":"Los Mochis",
+      "Code":"LMM"
    },
   {
-      "StationName":"Louisville ",
-      "StationCode":"SDF"
+      "Name":"Louisville ",
+      "Code":"SDF"
    },
   {
-      "StationName":"Madison ",
-      "StationCode":"MSN"
+      "Name":"Madison ",
+      "Code":"MSN"
    },
   {
-      "StationName":"Matamoros",
-      "StationCode":"MAM"
+      "Name":"Matamoros",
+      "Code":"MAM"
    },
   {
-      "StationName":"Mazatlan",
-      "StationCode":"MZT"
+      "Name":"Mazatlan",
+      "Code":"MZT"
    },
   {
-      "StationName":"Memphis ",
-      "StationCode":"MEM"
+      "Name":"Memphis ",
+      "Code":"MEM"
    },
   {
-      "StationName":"Merida",
-      "StationCode":"MID"
+      "Name":"Merida",
+      "Code":"MID"
    },
   {
-      "StationName":"Mexicali",
-      "StationCode":"MXL"
+      "Name":"Mexicali",
+      "Code":"MXL"
    },
   {
-      "StationName":"Mexico City",
-      "StationCode":"MEX"
+      "Name":"Mexico City",
+      "Code":"MEX"
    },
   {
-      "StationName":"Miami",
-      "StationCode":"MIA"
+      "Name":"Miami",
+      "Code":"MIA"
    },
   {
-      "StationName":"Milwaukee",
-      "StationCode":"MKE"
+      "Name":"Milwaukee",
+      "Code":"MKE"
    },
   {
-      "StationName":"Minneapolis",
-      "StationCode":"MSP"
+      "Name":"Minneapolis",
+      "Code":"MSP"
    },
   {
-      "StationName":"Missoula",
-      "StationCode":"MSO"
+      "Name":"Missoula",
+      "Code":"MSO"
    },
   {
-      "StationName":"Mobile Central",
-      "StationCode":"BFM"
+      "Name":"Mobile Central",
+      "Code":"BFM"
    },
   {
-      "StationName":"Monterrey",
-      "StationCode":"MTY"
+      "Name":"Monterrey",
+      "Code":"MTY"
    },
   {
-      "StationName":"Morelia",
-      "StationCode":"MLM"
+      "Name":"Morelia",
+      "Code":"MLM"
    },
   {
-      "StationName":"Nashville ",
-      "StationCode":"BNA"
+      "Name":"Nashville ",
+      "Code":"BNA"
    },
   {
-      "StationName":"New York (JFK)",
-      "StationCode":"JFK"
+      "Name":"New York (JFK)",
+      "Code":"JFK"
    },
   {
-      "StationName":"Norfolk ",
-      "StationCode":"ORF"
+      "Name":"Norfolk ",
+      "Code":"ORF"
    },
   {
-      "StationName":"Nueva Orleans ",
-      "StationCode":"MSY"
+      "Name":"Nueva Orleans ",
+      "Code":"MSY"
    },
   {
-      "StationName":"Oakland (San Francisco area)",
-      "StationCode":"OAK"
+      "Name":"Oakland (San Francisco area)",
+      "Code":"OAK"
    },
   {
-      "StationName":"Oaxaca",
-      "StationCode":"OAX"
+      "Name":"Oaxaca",
+      "Code":"OAX"
    },
   {
-      "StationName":"Oklahoma City ",
-      "StationCode":"OKC"
+      "Name":"Oklahoma City ",
+      "Code":"OKC"
    },
   {
-      "StationName":"Omaha ",
-      "StationCode":"OMA"
+      "Name":"Omaha ",
+      "Code":"OMA"
    },
   {
-      "StationName":"Ontario",
-      "StationCode":"ONT"
+      "Name":"Ontario",
+      "Code":"ONT"
    },
   {
-      "StationName":"Orlando",
-      "StationCode":"MCO"
+      "Name":"Orlando",
+      "Code":"MCO"
    },
   {
-      "StationName":"Palm Springs ",
-      "StationCode":"PSP"
+      "Name":"Palm Springs ",
+      "Code":"PSP"
    },
   {
-      "StationName":"Panama",
-      "StationCode":"PTY"
+      "Name":"Panama",
+      "Code":"PTY"
    },
   {
-      "StationName":"Pensacola ",
-      "StationCode":"PNS"
+      "Name":"Pensacola ",
+      "Code":"PNS"
    },
   {
-      "StationName":"Philadelphia",
-      "StationCode":"PHL"
+      "Name":"Philadelphia",
+      "Code":"PHL"
    },
   {
-      "StationName":"Phoenix",
-      "StationCode":"PHX"
+      "Name":"Phoenix",
+      "Code":"PHX"
    },
   {
-      "StationName":"Pittsburgh ",
-      "StationCode":"PIT"
+      "Name":"Pittsburgh ",
+      "Code":"PIT"
    },
   {
-      "StationName":"Portland",
-      "StationCode":"PDX"
+      "Name":"Portland",
+      "Code":"PDX"
    },
   {
-      "StationName":"Portsmouth",
-      "StationCode":"PSM"
+      "Name":"Portsmouth",
+      "Code":"PSM"
    },
   {
-      "StationName":"Puebla",
-      "StationCode":"PBC"
+      "Name":"Puebla",
+      "Code":"PBC"
    },
   {
-      "StationName":"Puerto Escondido",
-      "StationCode":"PXM"
+      "Name":"Puerto Escondido",
+      "Code":"PXM"
    },
   {
-      "StationName":"Puerto Vallarta / Riviera Nayarit",
-      "StationCode":"PVR"
+      "Name":"Puerto Vallarta / Riviera Nayarit",
+      "Code":"PVR"
    },
   {
-      "StationName":"Queretaro",
-      "StationCode":"QRO"
+      "Name":"Queretaro",
+      "Code":"QRO"
    },
   {
-      "StationName":"Raleigh ",
-      "StationCode":"RDU"
+      "Name":"Raleigh ",
+      "Code":"RDU"
    },
   {
-      "StationName":"Reno",
-      "StationCode":"RNO"
+      "Name":"Reno",
+      "Code":"RNO"
    },
   {
-      "StationName":"Sacramento",
-      "StationCode":"SMF"
+      "Name":"Sacramento",
+      "Code":"SMF"
    },
   {
-      "StationName":"Salt Lake City",
-      "StationCode":"SLC"
+      "Name":"Salt Lake City",
+      "Code":"SLC"
    },
   {
-      "StationName":"San Antonio",
-      "StationCode":"SAT"
+      "Name":"San Antonio",
+      "Code":"SAT"
    },
   {
-      "StationName":"San Francisco",
-      "StationCode":"SFO"
+      "Name":"San Francisco",
+      "Code":"SFO"
    },
   {
-      "StationName":"San Francisco Bay",
-      "StationCode":"QSB"
+      "Name":"San Francisco Bay",
+      "Code":"QSB"
    },
   {
-      "StationName":"San Jose, California",
-      "StationCode":"SJC"
+      "Name":"San Jose, California",
+      "Code":"SJC"
    },
   {
-      "StationName":"San Jose, Costa Rica",
-      "StationCode":"SJO"
+      "Name":"San Jose, Costa Rica",
+      "Code":"SJO"
    },
   {
-      "StationName":"San Luis Potosi",
-      "StationCode":"SLP"
+      "Name":"San Luis Potosi",
+      "Code":"SLP"
    },
   {
-      "StationName":"San Pedro Sula",
-      "StationCode":"SAP"
+      "Name":"San Pedro Sula",
+      "Code":"SAP"
    },
   {
-      "StationName":"San Salvador",
-      "StationCode":"SAL"
+      "Name":"San Salvador",
+      "Code":"SAL"
    },
   {
-      "StationName":"Santa Ana ",
-      "StationCode":"SNA"
+      "Name":"Santa Ana ",
+      "Code":"SNA"
    },
   {
-      "StationName":"Santa Bárbara",
-      "StationCode":"SBA"
+      "Name":"Santa Bárbara",
+      "Code":"SBA"
    },
   {
-      "StationName":"Seattle",
-      "StationCode":"SEA"
+      "Name":"Seattle",
+      "Code":"SEA"
    },
   {
-      "StationName":"Sioux Fall ",
-      "StationCode":"FSD"
+      "Name":"Sioux Fall ",
+      "Code":"FSD"
    },
   {
-      "StationName":"Spokane ",
-      "StationCode":"GEG"
+      "Name":"Spokane ",
+      "Code":"GEG"
    },
   {
-      "StationName":"St. Louis ",
-      "StationCode":"STL"
+      "Name":"St. Louis ",
+      "Code":"STL"
    },
   {
-      "StationName":"Syracuse ",
-      "StationCode":"SYR"
+      "Name":"Syracuse ",
+      "Code":"SYR"
    },
   {
-      "StationName":"TJX San Diego via CBX",
-      "StationCode":"TJX"
+      "Name":"TJX San Diego via CBX",
+      "Code":"TJX"
    },
   {
-      "StationName":"Tampa ",
-      "StationCode":"TPA"
+      "Name":"Tampa ",
+      "Code":"TPA"
    },
   {
-      "StationName":"Tapachula",
-      "StationCode":"TAP"
+      "Name":"Tapachula",
+      "Code":"TAP"
    },
   {
-      "StationName":"Tegucigalpa de Honduras",
-      "StationCode":"TGU"
+      "Name":"Tegucigalpa de Honduras",
+      "Code":"TGU"
    },
   {
-      "StationName":"Tepic",
-      "StationCode":"TPQ"
+      "Name":"Tepic",
+      "Code":"TPQ"
    },
   {
-      "StationName":"Tijuana",
-      "StationCode":"TIJ"
+      "Name":"Tijuana",
+      "Code":"TIJ"
    },
   {
-      "StationName":"Torreon",
-      "StationCode":"TRC"
+      "Name":"Torreon",
+      "Code":"TRC"
    },
   {
-      "StationName":"Trenton ",
-      "StationCode":"TTN"
+      "Name":"Trenton ",
+      "Code":"TTN"
    },
   {
-      "StationName":"Tucson",
-      "StationCode":"TUS"
+      "Name":"Tucson",
+      "Code":"TUS"
    },
   {
-      "StationName":"Tulsa ",
-      "StationCode":"TUL"
+      "Name":"Tulsa ",
+      "Code":"TUL"
    },
   {
-      "StationName":"Tuxtla Gutierrez",
-      "StationCode":"TGZ"
+      "Name":"Tuxtla Gutierrez",
+      "Code":"TGZ"
    },
   {
-      "StationName":"Uruapan",
-      "StationCode":"UPN"
+      "Name":"Uruapan",
+      "Code":"UPN"
    },
   {
-      "StationName":"Veracruz",
-      "StationCode":"VER"
+      "Name":"Veracruz",
+      "Code":"VER"
    },
   {
-      "StationName":"Warwick ",
-      "StationCode":"PVD"
+      "Name":"Warwick ",
+      "Code":"PVD"
    },
   {
-      "StationName":"Washington, DC",
-      "StationCode":"DCA"
+      "Name":"Washington, DC",
+      "Code":"DCA"
    },
   {
-      "StationName":"Wichita ",
-      "StationCode":"ICT"
+      "Name":"Wichita ",
+      "Code":"ICT"
    },
   {
-      "StationName":"Zacatecas",
-      "StationCode":"ZCL"
+      "Name":"Zacatecas",
+      "Code":"ZCL"
    }
   ]
 }
