@@ -1,586 +1,586 @@
-{ "Stations" : 
+{ "stations" : 
   [{
-      "Name":"Acapulco",
+      "name":"Acapulco",
       "Code":"ACA"
    },
   {
-      "Name":"Aguascalientese",
+      "name":"Aguascalientese",
       "Code":"AGU"
    },
   {
-      "Name":"Albany",
+      "name":"Albany",
       "Code":"ALB"
    },
   {
-      "Name":"Atlanta",
+      "name":"Atlanta",
       "Code":"ATL"
    },
   {
-      "Name":"Austin",
+      "name":"Austin",
       "Code":"AUS"
    },
   {
-      "Name":"Austin/San Antonio",
+      "name":"Austin/San Antonio",
       "Code":"QTX"
    },
   {
-      "Name":"Baltimore",
+      "name":"Baltimore",
       "Code":"BWI"
    },
   {
-      "Name":"Birmingham ",
+      "name":"Birmingham ",
       "Code":"BHM"
    },
   {
-      "Name":"Bismarck ",
+      "name":"Bismarck ",
       "Code":"BIS"
    },
   {
-      "Name":"Bogotá",
+      "name":"Bogotá",
       "Code":"BOG"
    },
   {
-      "Name":"Boise ",
+      "name":"Boise ",
       "Code":"BOI"
    },
   {
-      "Name":"Bozeman ",
+      "name":"Bozeman ",
       "Code":"BZN"
    },
   {
-      "Name":"Bradley",
+      "name":"Bradley",
       "Code":"BDL"
    },
   {
-      "Name":"Branson ",
+      "name":"Branson ",
       "Code":"BKG"
    },
   {
-      "Name":"Campeche",
+      "name":"Campeche",
       "Code":"CPE"
    },
   {
-      "Name":"Cancun",
+      "name":"Cancun",
       "Code":"CUN"
    },
   {
-      "Name":"Cancun/Cozumel",
+      "name":"Cancun/Cozumel",
       "Code":"QCN"
    },
   {
-      "Name":"Cedar rapids",
+      "name":"Cedar rapids",
       "Code":"CID"
    },
   {
-      "Name":"Charleston ",
+      "name":"Charleston ",
       "Code":"CHS"
    },
   {
-      "Name":"Charlotte",
+      "name":"Charlotte",
       "Code":"CLT"
    },
   {
-      "Name":"Chetumal",
+      "name":"Chetumal",
       "Code":"CTM"
    },
   {
-      "Name":"Chicago (Midway)",
+      "name":"Chicago (Midway)",
       "Code":"MDW"
    },
   {
-      "Name":"Chicago (O Hare)",
+      "name":"Chicago (O Hare)",
       "Code":"ORD"
    },
   {
-      "Name":"Chicago Airports",
+      "name":"Chicago Airports",
       "Code":"CHI"
    },
   {
-      "Name":"Chihuahua",
+      "name":"Chihuahua",
       "Code":"CUU"
    },
   {
-      "Name":"Cincinnati/Northern Kentucky Airport",
+      "name":"Cincinnati/Northern Kentucky Airport",
       "Code":"CVG"
    },
   {
-      "Name":"Ciudad Juarez",
+      "name":"Ciudad Juarez",
       "Code":"CJS"
    },
   {
-      "Name":"Ciudad Obregon",
+      "name":"Ciudad Obregon",
       "Code":"CEN"
    },
   {
-      "Name":"Cleveland ",
+      "name":"Cleveland ",
       "Code":"CLE"
    },
   {
-      "Name":"Colima",
+      "name":"Colima",
       "Code":"CLQ"
    },
   {
-      "Name":"Colorado Springs",
+      "name":"Colorado Springs",
       "Code":"COS"
    },
   {
-      "Name":"Columbus",
+      "name":"Columbus",
       "Code":"CMH"
    },
   {
-      "Name":"Cozumel",
+      "name":"Cozumel",
       "Code":"CZM"
    },
   {
-      "Name":"Culiacan",
+      "name":"Culiacan",
       "Code":"CUL"
    },
   {
-      "Name":"Dallas – Fort Worth",
+      "name":"Dallas – Fort Worth",
       "Code":"DFW"
    },
   {
-      "Name":"Denver",
+      "name":"Denver",
       "Code":"DEN"
    },
   {
-      "Name":"Des Moines ",
+      "name":"Des Moines ",
       "Code":"DSM"
    },
   {
-      "Name":"Detroit",
+      "name":"Detroit",
       "Code":"DTW"
    },
   {
-      "Name":"Dulles, Washington",
+      "name":"Dulles, Washington",
       "Code":"IAD"
    },
   {
-      "Name":"Durango",
+      "name":"Durango",
       "Code":"DGO"
    },
   {
-      "Name":"El Paso ",
+      "name":"El Paso ",
       "Code":"ELP"
    },
   {
-      "Name":"Fargo ",
+      "name":"Fargo ",
       "Code":"FAR"
    },
   {
-      "Name":"Fort Myers ",
+      "name":"Fort Myers ",
       "Code":"RSW"
    },
   {
-      "Name":"Fresno",
+      "name":"Fresno",
       "Code":"FAT"
    },
   {
-      "Name":"Grand Rapids ",
+      "name":"Grand Rapids ",
       "Code":"GRR"
    },
   {
-      "Name":"Green bay",
+      "name":"Green bay",
       "Code":"GRB"
    },
   {
-      "Name":"Greenville ",
+      "name":"Greenville ",
       "Code":"GSP"
    },
   {
-      "Name":"Guadalajara",
+      "name":"Guadalajara",
       "Code":"GDL"
    },
   {
-      "Name":"Guatemala",
+      "name":"Guatemala",
       "Code":"GUA"
    },
   {
-      "Name":"Hermosillo",
+      "name":"Hermosillo",
       "Code":"HMO"
    },
   {
-      "Name":"Houston",
+      "name":"Houston",
       "Code":"IAH"
    },
   {
-      "Name":"Huatulco",
+      "name":"Huatulco",
       "Code":"HUX"
    },
   {
-      "Name":"Huntsville ",
+      "name":"Huntsville ",
       "Code":"HSV"
    },
   {
-      "Name":"Illinois",
+      "name":"Illinois",
       "Code":"BMI"
    },
   {
-      "Name":"Indianapolis International Airport",
+      "name":"Indianapolis International Airport",
       "Code":"IND"
    },
   {
-      "Name":"Ixtapa / Zihuatanejo",
+      "name":"Ixtapa / Zihuatanejo",
       "Code":"ZIH"
    },
   {
-      "Name":"Jackson ",
+      "name":"Jackson ",
       "Code":"JAC"
    },
   {
-      "Name":"Jacksonville ",
+      "name":"Jacksonville ",
       "Code":"JAX"
    },
   {
-      "Name":"Kansas City",
+      "name":"Kansas City",
       "Code":"MCI"
    },
   {
-      "Name":"Knoxville",
+      "name":"Knoxville",
       "Code":"TYS"
    },
   {
-      "Name":"La Guardia ",
+      "name":"La Guardia ",
       "Code":"LGA"
    },
   {
-      "Name":"La Paz",
+      "name":"La Paz",
       "Code":"LAP"
    },
   {
-      "Name":"Lafayette ",
+      "name":"Lafayette ",
       "Code":"LFT"
    },
   {
-      "Name":"Las Vegas",
+      "name":"Las Vegas",
       "Code":"LAS"
    },
   {
-      "Name":"Leon",
+      "name":"Leon",
       "Code":"BJX"
    },
   {
-      "Name":"Little Rock ",
+      "name":"Little Rock ",
       "Code":"LIT"
    },
   {
-      "Name":"Logan",
+      "name":"Logan",
       "Code":"BOS"
    },
   {
-      "Name":"Long Island ",
+      "name":"Long Island ",
       "Code":"ISP"
    },
   {
-      "Name":"Loreto",
+      "name":"Loreto",
       "Code":"LTO"
    },
   {
-      "Name":"Los Angeles",
+      "name":"Los Angeles",
       "Code":"LAX"
    },
   {
-      "Name":"Los Angeles Airports",
+      "name":"Los Angeles Airports",
       "Code":"QLA"
    },
   {
-      "Name":"Los Cabos",
+      "name":"Los Cabos",
       "Code":"SJD"
    },
   {
-      "Name":"Los Mochis",
+      "name":"Los Mochis",
       "Code":"LMM"
    },
   {
-      "Name":"Louisville ",
+      "name":"Louisville ",
       "Code":"SDF"
    },
   {
-      "Name":"Madison ",
+      "name":"Madison ",
       "Code":"MSN"
    },
   {
-      "Name":"Matamoros",
+      "name":"Matamoros",
       "Code":"MAM"
    },
   {
-      "Name":"Mazatlan",
+      "name":"Mazatlan",
       "Code":"MZT"
    },
   {
-      "Name":"Memphis ",
+      "name":"Memphis ",
       "Code":"MEM"
    },
   {
-      "Name":"Merida",
+      "name":"Merida",
       "Code":"MID"
    },
   {
-      "Name":"Mexicali",
+      "name":"Mexicali",
       "Code":"MXL"
    },
   {
-      "Name":"Mexico City",
+      "name":"Mexico City",
       "Code":"MEX"
    },
   {
-      "Name":"Miami",
+      "name":"Miami",
       "Code":"MIA"
    },
   {
-      "Name":"Milwaukee",
+      "name":"Milwaukee",
       "Code":"MKE"
    },
   {
-      "Name":"Minneapolis",
+      "name":"Minneapolis",
       "Code":"MSP"
    },
   {
-      "Name":"Missoula",
+      "name":"Missoula",
       "Code":"MSO"
    },
   {
-      "Name":"Mobile Central",
+      "name":"Mobile Central",
       "Code":"BFM"
    },
   {
-      "Name":"Monterrey",
+      "name":"Monterrey",
       "Code":"MTY"
    },
   {
-      "Name":"Morelia",
+      "name":"Morelia",
       "Code":"MLM"
    },
   {
-      "Name":"Nashville ",
+      "name":"Nashville ",
       "Code":"BNA"
    },
   {
-      "Name":"New York (JFK)",
+      "name":"New York (JFK)",
       "Code":"JFK"
    },
   {
-      "Name":"Norfolk ",
+      "name":"Norfolk ",
       "Code":"ORF"
    },
   {
-      "Name":"Nueva Orleans ",
+      "name":"Nueva Orleans ",
       "Code":"MSY"
    },
   {
-      "Name":"Oakland (San Francisco area)",
+      "name":"Oakland (San Francisco area)",
       "Code":"OAK"
    },
   {
-      "Name":"Oaxaca",
+      "name":"Oaxaca",
       "Code":"OAX"
    },
   {
-      "Name":"Oklahoma City ",
+      "name":"Oklahoma City ",
       "Code":"OKC"
    },
   {
-      "Name":"Omaha ",
+      "name":"Omaha ",
       "Code":"OMA"
    },
   {
-      "Name":"Ontario",
+      "name":"Ontario",
       "Code":"ONT"
    },
   {
-      "Name":"Orlando",
+      "name":"Orlando",
       "Code":"MCO"
    },
   {
-      "Name":"Palm Springs ",
+      "name":"Palm Springs ",
       "Code":"PSP"
    },
   {
-      "Name":"Panama",
+      "name":"Panama",
       "Code":"PTY"
    },
   {
-      "Name":"Pensacola ",
+      "name":"Pensacola ",
       "Code":"PNS"
    },
   {
-      "Name":"Philadelphia",
+      "name":"Philadelphia",
       "Code":"PHL"
    },
   {
-      "Name":"Phoenix",
+      "name":"Phoenix",
       "Code":"PHX"
    },
   {
-      "Name":"Pittsburgh ",
+      "name":"Pittsburgh ",
       "Code":"PIT"
    },
   {
-      "Name":"Portland",
+      "name":"Portland",
       "Code":"PDX"
    },
   {
-      "Name":"Portsmouth",
+      "name":"Portsmouth",
       "Code":"PSM"
    },
   {
-      "Name":"Puebla",
+      "name":"Puebla",
       "Code":"PBC"
    },
   {
-      "Name":"Puerto Escondido",
+      "name":"Puerto Escondido",
       "Code":"PXM"
    },
   {
-      "Name":"Puerto Vallarta / Riviera Nayarit",
+      "name":"Puerto Vallarta / Riviera Nayarit",
       "Code":"PVR"
    },
   {
-      "Name":"Queretaro",
+      "name":"Queretaro",
       "Code":"QRO"
    },
   {
-      "Name":"Raleigh ",
+      "name":"Raleigh ",
       "Code":"RDU"
    },
   {
-      "Name":"Reno",
+      "name":"Reno",
       "Code":"RNO"
    },
   {
-      "Name":"Sacramento",
+      "name":"Sacramento",
       "Code":"SMF"
    },
   {
-      "Name":"Salt Lake City",
+      "name":"Salt Lake City",
       "Code":"SLC"
    },
   {
-      "Name":"San Antonio",
+      "name":"San Antonio",
       "Code":"SAT"
    },
   {
-      "Name":"San Francisco",
+      "name":"San Francisco",
       "Code":"SFO"
    },
   {
-      "Name":"San Francisco Bay",
+      "name":"San Francisco Bay",
       "Code":"QSB"
    },
   {
-      "Name":"San Jose, California",
+      "name":"San Jose, California",
       "Code":"SJC"
    },
   {
-      "Name":"San Jose, Costa Rica",
+      "name":"San Jose, Costa Rica",
       "Code":"SJO"
    },
   {
-      "Name":"San Luis Potosi",
+      "name":"San Luis Potosi",
       "Code":"SLP"
    },
   {
-      "Name":"San Pedro Sula",
+      "name":"San Pedro Sula",
       "Code":"SAP"
    },
   {
-      "Name":"San Salvador",
+      "name":"San Salvador",
       "Code":"SAL"
    },
   {
-      "Name":"Santa Ana ",
+      "name":"Santa Ana ",
       "Code":"SNA"
    },
   {
-      "Name":"Santa Bárbara",
+      "name":"Santa Bárbara",
       "Code":"SBA"
    },
   {
-      "Name":"Seattle",
+      "name":"Seattle",
       "Code":"SEA"
    },
   {
-      "Name":"Sioux Fall ",
+      "name":"Sioux Fall ",
       "Code":"FSD"
    },
   {
-      "Name":"Spokane ",
+      "name":"Spokane ",
       "Code":"GEG"
    },
   {
-      "Name":"St. Louis ",
+      "name":"St. Louis ",
       "Code":"STL"
    },
   {
-      "Name":"Syracuse ",
+      "name":"Syracuse ",
       "Code":"SYR"
    },
   {
-      "Name":"TJX San Diego via CBX",
+      "name":"TJX San Diego via CBX",
       "Code":"TJX"
    },
   {
-      "Name":"Tampa ",
+      "name":"Tampa ",
       "Code":"TPA"
    },
   {
-      "Name":"Tapachula",
+      "name":"Tapachula",
       "Code":"TAP"
    },
   {
-      "Name":"Tegucigalpa de Honduras",
+      "name":"Tegucigalpa de Honduras",
       "Code":"TGU"
    },
   {
-      "Name":"Tepic",
+      "name":"Tepic",
       "Code":"TPQ"
    },
   {
-      "Name":"Tijuana",
+      "name":"Tijuana",
       "Code":"TIJ"
    },
   {
-      "Name":"Torreon",
+      "name":"Torreon",
       "Code":"TRC"
    },
   {
-      "Name":"Trenton ",
+      "name":"Trenton ",
       "Code":"TTN"
    },
   {
-      "Name":"Tucson",
+      "name":"Tucson",
       "Code":"TUS"
    },
   {
-      "Name":"Tulsa ",
+      "name":"Tulsa ",
       "Code":"TUL"
    },
   {
-      "Name":"Tuxtla Gutierrez",
+      "name":"Tuxtla Gutierrez",
       "Code":"TGZ"
    },
   {
-      "Name":"Uruapan",
+      "name":"Uruapan",
       "Code":"UPN"
    },
   {
-      "Name":"Veracruz",
+      "name":"Veracruz",
       "Code":"VER"
    },
   {
-      "Name":"Warwick ",
+      "name":"Warwick ",
       "Code":"PVD"
    },
   {
-      "Name":"Washington, DC",
+      "name":"Washington, DC",
       "Code":"DCA"
    },
   {
-      "Name":"Wichita ",
+      "name":"Wichita ",
       "Code":"ICT"
    },
   {
-      "Name":"Zacatecas",
+      "name":"Zacatecas",
       "Code":"ZCL"
    }
   ]
